@@ -1,0 +1,49 @@
+.banner_index{
+    width:100%;
+    height: 550px;
+    background-image: url(../img2/pexels-aditya-aiyar-1877005.jpg);
+    background-size: cover;
+    padding-top:200px;
+}
+
+.leyenda{
+    text-align:center;
+    font-size:45px;
+    color: #fff;
+    font-family:sans-serif;
+}
+.logo{
+   font-family:sans-serif; 
+    font-size:25px;
+}
+.btn_banner{
+    display: block;
+    width: 100px;
+    margin: auto;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top:15px;
+    
+    background-image: linear-gradient(45deg, #fb61df 0%, #ff6f5a 50%, #ffffff 100%);
+    
+}
+.nav li{
+    list-style: none;
+    font-size:18px;
+    border-radius:8px;
+    text-align: center;
+    font-family: sans-serif;
+}  
+.nav li:hover{
+    transition:3.5s;
+    background-image: radial-gradient(circle at 50% -1.02%, #ffb06b 0, #ffa76d 6.25%, #ff9d6f 12.5%, #ff9271 18.75%, #ff8574 25%, #ff7878 31.25%, #ff697d 37.5%, #ff5882 43.75%, #f94688 50%, #ef338f 56.25%, #e22398 62.5%, #d417a3 68.75%, #c217ae 75%, #ad20ba 81.25%, #952cc6 87.5%, #7537d1 93.75%, #4842db 100%);
+    width:100px;
+}
+.btn_banner:hover{
+    background-image: radial-gradient(circle at 48.89% 50.1%, #eb9b38 0, #f09137 8.33%, #f48538 16.67%, #f7793a 25%, #f96a3d 33.33%, #fa5a41 41.67%, #f94646 50%, #f72d4c 58.33%, #f40053 66.67%, #f1005c 75%, #ec0067 83.33%, #e50072 91.67%, #dd007e 100%);
+    transition:3.5s;
+    width: 160px;
+}

@@ -1,0 +1,111 @@
+*{
+padding:0px;
+margin: 0px;
+}
+.section1{
+margin:auto;
+padding:0px;
+}
+header{
+background-color:#EB7972;
+ width:1500px;
+ height:60px;
+}
+.encabezado{
+color:black;
+font-size:40px;
+text-align: center;
+}
+.section2{
+margin:30px 15px 20px 0px;
+padding: 7px;
+}
+
+.section3{
+ margin:30px 15px 20px 0px;
+ padding:10px;
+}
+
+.parrafo{
+color:black;
+font-size:20px;
+font-family:inherit;
+margin: 4px;
+padding:15px;
+}
+
+.titulo2{
+color:black;
+font-size:20px;
+font-family:monospace;
+text-align:center;
+}
+
+.tabla{
+ border:3px solid black;
+}
+
+.titulo3{
+font-size:17px;
+font-family:sans-serif;
+text-align:center;
+}
+.parrafo0{
+color:black;
+font-size:17px;
+font-family:cursive;
+}
+
+.texto{
+font-size:15px;
+font-family:sans-serif;
+}
+
+.parrafo1{
+color:black;
+font-size:26px;
+font-family:cursive;
+text-align:left;
+}
+h2{
+font-size:24px;
+font-family:monospace;
+}
+
+p{
+font-size:17px;
+font-family:cursive;
+}
+
+h3{
+color:crimson;
+font-size:22px;
+font-family: monospace;
+}
+
+li{
+color:black;
+font-size:19px;
+font-family: monospace;
+}
+.resaltado{
+background-color: darksalmon;
+}
+
+img{
+border:5px solid crimson;
+margin:30px 15px 20px 0px;
+}
+
+.texto1{
+color:black;
+font-size:19px;
+font-family:monospace;
+} 
+footer{
+background-color:#EB7972;
+}
+.nombre{
+text-align: center;
+font-size:18px;
+}
